@@ -33,4 +33,4 @@ Obviously not necessary it is your own choice!
 
 - Visit `127.0.0.1:8000` in your browser to enjoy the awesome app!
 
-Built with ♥ by [`Bhishm Daslaniya`](http://www.omkarpathak.in/)
+Built with ♥ by [`Bhishm Daslaniya`](http://bhishmdaslaniya.github.io/)
